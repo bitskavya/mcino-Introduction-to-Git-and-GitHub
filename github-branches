@@ -1,0 +1,5 @@
+
+C:\Users\kavya\mcino-Introduction-to-Git-and-GitHub>git branch -vv
+
+  bug-fix-typo 1dd6fd9 [origin/bug-fix-typo] Fix typo in compound interest file
+* main         0f132f1 [origin/main] Add pull request verification output
